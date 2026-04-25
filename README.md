@@ -1,10 +1,10 @@
 # Hi, I'm Forest 👋
 
-**`Full Stack Software Development Student | Freelance Web Developer`**
+**`Junior Full Stack Developer | Freelance Web Developer`**
 
 Building calm, accessible and human-centred digital experiences.
 
-I’m currently studying Full Stack Software Development with Code Institute and building real-world projects using HTML, CSS, JavaScript, Python, Django and Bootstrap.
+I recently completed a Full Stack Software Development programme with Code Institute, where I built multiple real-world projects using HTML, CSS, JavaScript, Python, Django and Bootstrap.
 
 My approach is simple: technology should feel clear, supportive and easy to use.
 
@@ -25,8 +25,6 @@ My approach is simple: technology should feel clear, supportive and easy to use.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -35,56 +33,56 @@ My approach is simple: technology should feel clear, supportive and easy to use.
 ### 🌿 You Are Seen
 
 <a href="https://github.com/Forest-Eloghosa/you-are-seen">
-  <img align="right" src="https://raw.githubusercontent.com/Forest-Eloghosa/you-are-seen/main/assets/images/you-are-seen-finished-site.png" width="250px" alt="You Are Seen project mockup">
+  <img align="right" width="260px" src="https://raw.githubusercontent.com/Forest-Eloghosa/you-are-seen/main/assets/images/you-are-seen-finished-site.png"/>
 </a>
 
-A wellness and reflection platform designed to give users a safe space to pause, breathe and express themselves without judgement.  
+A wellness and reflection platform designed to give users a safe space to pause, breathe and express themselves without judgement.
 
 **Technologies Used:** HTML, CSS, JavaScript, Bootstrap  
 
-<br><br><br><br><br><br>
+<br clear="right"/>
 
 ---
 
 ### 🎨 We Code We Sketch
 
 <a href="https://github.com/Forest-Eloghosa/we-code-we-sketch">
-  <img align="right" src="https://raw.githubusercontent.com/Forest-Eloghosa/we-code-we-sketch/main/core/static/core/images/we-code-we-sketch-mock-up.png" width="250px" alt="We Code We Sketch project mockup">
+  <img align="right" width="260px" src="https://raw.githubusercontent.com/Forest-Eloghosa/we-code-we-sketch/main/core/static/core/images/we-code-we-sketch-mock-up.png"/>
 </a>
 
-A freelance portfolio combining web development services, digital support and creative sketch work.  
+A freelance portfolio combining web development services, digital support and creative sketch work.
 
 **Technologies Used:** HTML, CSS, JavaScript, Bootstrap, Django  
 
-<br><br><br><br><br><br>
+<br clear="right"/>
 
 ---
 
 ### 🍽️ YourTable
 
 <a href="https://github.com/Forest-Eloghosa/your_table">
-  <img align="right" src="https://raw.githubusercontent.com/Forest-Eloghosa/your_table/main/static/images/YourTable-Finished-Site.png" width="250px" alt="YourTable project mockup">
+  <img align="right" width="260px" src="https://raw.githubusercontent.com/Forest-Eloghosa/your_table/main/static/images/YourTable-Finished-Site.png"/>
 </a>
 
-A Django-powered restaurant booking system with structured reservations and user-focused design.  
+A Django-powered restaurant booking system with structured reservations and user-focused design.
 
 **Technologies Used:** Python, Django, HTML, CSS, Bootstrap  
 
-<br><br><br><br><br><br>
+<br clear="right"/>
 
 ---
 
 ### 💼 Freelancer Budget Tracker
 
 <a href="https://github.com/Forest-Eloghosa/freelancer-budget-tracker">
-  <img align="right" src="https://raw.githubusercontent.com/Forest-Eloghosa/freelancer-budget-tracker/main/static/images/mockup.png" width="250px" alt="Freelancer Budget Tracker project mockup">
+  <img align="right" width="260px" src="https://raw.githubusercontent.com/Forest-Eloghosa/freelancer-budget-tracker/main/static/images/mockup.png"/>
 </a>
 
-A financial tracking app built for freelancers to manage income, expenses and categories clearly and efficiently.  
+A financial tracking app built for freelancers to manage income, expenses and categories clearly.
 
 **Technologies Used:** Python, Django, PostgreSQL, Bootstrap, Heroku  
 
-<br><br><br><br><br><br>
+<br clear="right"/>
 
 ---
 
@@ -98,10 +96,10 @@ A financial tracking app built for freelancers to manage income, expenses and ca
 
 ## 🌍 Currently Working On
 
-- Building real-world full stack applications  
-- Improving accessibility and user experience  
+- Full stack application development  
+- Accessibility and UX improvements  
 - Growing *We Code We Sketch*  
-- Becoming a confident, intentional developer  
+- Strengthening real-world project experience  
 
 ---
 
